@@ -1,0 +1,123 @@
+
+Module                          : Sorption
+Version                         : 2020
+Build date                      : Oct 18 2019
+Host                            : karan
+Operating system                : Windows
+Task started                    : Tue Dec 31 20:14:37 2024
+
+
+Task                            : Henry constant
+Monte Carlo method              : Configurational bias
+Random number seed              : 419723961
+
+
+---- Henry constant calculation parameters ----
+
+Production steps                : 10000000
+
+
+---- Energy parameters ----
+
+Forcefield                      : Dreiding
+Charges                         : Use current
+Electrostatic terms:
+  Summation method              : Ewald
+  Accuracy                      : 0.001 kcal/mol
+  Buffer width                  : 0.5 A
+
+van der Waals terms:
+  Summation method              : Atom based
+  Truncation method             : Cubic spline
+  Cutoff distance               : 12.5 A
+  Spline width                  : 1 A
+  Buffer width                  : 0.5 A
+
+Framework charge                : 0.000 e per cell
+
+ | Sorbate     | Charge      |
+ |             |             |
+ |____________________________
+ | oxy opti    |       0.000 |
+
+
+
+---- Configurational Bias Monte Carlo method parameters ----
+
+ | Sorbate     | Head bias   | Torsion     | Torsion     |
+ |             | steps       | twisters    | bias steps  |
+ |________________________________________________________
+ | oxy opti    |           1 |           0 |             |
+
+
+
+---- Henry constant calculation ----
+
+Temperature                     : 298.000 K
+
+Sorbate                         : oxy opti
+Ideal gas chemical potential    : 0.000 kcal/mol
+
+---- Monte Carlo steps ----
+
+ | Sorbate     | Insert      |
+ |             | steps       |
+ |____________________________
+ | oxy opti    |             |
+ |  Accepted   |     1941136 |
+ |  Attempted  |    10000000 |
+ |  Ratio      |       0.194 |
+
+---- Isosteric heats ----
+
+ | Sorbate     | Average     | Minimum     | Maximum     |
+ |             | kcal/mol    | kcal/mol    | kcal/mol    |
+ |________________________________________________________
+ | oxy opti    |       3.757 |      -4.708 |       5.092 |
+
+
+---- Henry constant ----
+
+ | Sorbate     | Samples     | Henry       |
+ |             |             | per kPa     |
+ |__________________________________________
+ | oxy opti    |    10000000 |       0.218 |
+
+ | Temperature | oxy opti    |
+ | K           |             |
+ |____________________________
+ |     298.000 |       0.218 |
+ |     298.462 |       0.216 |
+ |     298.926 |       0.214 |
+ |     299.391 |       0.212 |
+ |     299.857 |       0.210 |
+ |     300.325 |       0.207 |
+ |     300.794 |       0.205 |
+ |     301.265 |       0.203 |
+ |     301.738 |       0.201 |
+ |     302.211 |       0.199 |
+ |     302.687 |       0.197 |
+ |     303.164 |       0.195 |
+ |     303.642 |       0.193 |
+ |     304.122 |       0.192 |
+ |     304.603 |       0.190 |
+ |     305.086 |       0.188 |
+ |     305.570 |       0.186 |
+ |     306.056 |       0.184 |
+ |     306.544 |       0.182 |
+ |     307.033 |       0.180 |
+ |     307.523 |       0.179 |
+ |     308.015 |       0.177 |
+ |     308.509 |       0.175 |
+ |     309.005 |       0.173 |
+ |     309.501 |       0.172 |
+ |     310.000 |       0.170 |
+
+
+
+
+Task terminated                 : Tue Dec 31 22:25:40 2024
+
+Total CPU time used             : 1:36:04 hours
+
+Termination status              : Normal

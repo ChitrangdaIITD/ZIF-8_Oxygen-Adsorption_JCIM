@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="latin1"?>
+<studyTableDocument>
+	<data>
+		<models/>
+		<predictions/>
+		<fields>
+			<field id="Structure" type="structure" userdata="Structure" description="Structure"/>
+			<field id="Loading" type="chart2d" userdata="Loading" description="Loading profile"/>
+			<field id="Energies" type="chart2d" userdata="Energies" description="Energy distribution"/>
+			<field id="Avg_etot" type="double" userdata="Avg_etot" description="Average total energy"/>
+			<field id="TotalFugacity" type="double" userdata="TotalFugacity" description="Total fugacity"/>
+			<field id="Fugacity_1" type="double" userdata="Fugacity_1" description="oxy opti fugacity"/>
+			<field id="Avg_loading_1" type="double" userdata="Avg_loading_1" description="oxy opti average loading"/>
+			<field id="Avg_isosteric_1" type="double" userdata="Avg_isosteric_1" description="oxy opti isosteric heat at 298 K"/>
+		</fields>
+		<systems>
+			<system id="{9CC3D5C8-9A90-46BB-B8C3-AE757BDFBBEB}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_1.xsd" name="ZIF-8P_structure_1"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_1.xcd" name="ZIF-8P_loading_1"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_1.xcd" name="ZIF-8P_energies_1"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-6.74506945533957E-03</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0.01</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0.01</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0.002107</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.80740422671299</value>
+				</datum>
+			</system>
+			<system id="{AA4F4F43-0396-4E02-9BD1-142E45A34C38}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_2.xsd" name="ZIF-8P_structure_2"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_2.xcd" name="ZIF-8P_loading_2"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_2.xcd" name="ZIF-8P_energies_2"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.59348630997649</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">8.0096</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">8.0096</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.738076</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.76887770171757</value>
+				</datum>
+			</system>
+			<system id="{880A3D3D-31CF-40BA-BB0E-346001387B32}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_3.xsd" name="ZIF-8P_structure_3"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_3.xcd" name="ZIF-8P_loading_3"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_3.xcd" name="ZIF-8P_energies_3"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-11.2086023721403</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.0092</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.0092</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.474107</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.77512139868336</value>
+				</datum>
+			</system>
+			<system id="{F76C7367-1E08-4D40-B69E-2BE62153F130}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_4.xsd" name="ZIF-8P_structure_4"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_4.xcd" name="ZIF-8P_loading_4"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_4.xcd" name="ZIF-8P_energies_4"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-16.6485607559456</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">24.0088</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">24.0088</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">5.162796</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.77707805255873</value>
+				</datum>
+			</system>
+			<system id="{9F1F4AB4-8311-46C2-9D9F-02F5805843B4}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_5.xsd" name="ZIF-8P_structure_5"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_5.xcd" name="ZIF-8P_loading_5"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_5.xcd" name="ZIF-8P_energies_5"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-22.3045728868009</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">32.0084</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">32.0084</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">6.909571</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.78161615644998</value>
+				</datum>
+			</system>
+			<system id="{3BAE5392-E637-4CEE-8F41-91DCE4A8D7CD}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_6.xsd" name="ZIF-8P_structure_6"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_6.xcd" name="ZIF-8P_loading_6"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_6.xcd" name="ZIF-8P_energies_6"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-27.2826455246433</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">40.008</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">40.008</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">8.452707</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.78405506485279</value>
+				</datum>
+			</system>
+			<system id="{29C86051-1126-40BC-97A2-0EAD5107B6BD}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_7.xsd" name="ZIF-8P_structure_7"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_7.xcd" name="ZIF-8P_loading_7"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_7.xcd" name="ZIF-8P_energies_7"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-32.8066857184221</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">48.0076</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">48.0076</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">10.154161</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.78959315132261</value>
+				</datum>
+			</system>
+			<system id="{EAB8262D-6BD7-45E9-8170-948A7B39C43A}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_8.xsd" name="ZIF-8P_structure_8"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_8.xcd" name="ZIF-8P_loading_8"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_8.xcd" name="ZIF-8P_energies_8"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-38.1387283080225</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">56.0072</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">56.0072</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">11.792707</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.79720239509083</value>
+				</datum>
+			</system>
+			<system id="{5227908E-891E-4CDA-8872-1A9C41B78E25}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_9.xsd" name="ZIF-8P_structure_9"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_9.xcd" name="ZIF-8P_loading_9"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_9.xcd" name="ZIF-8P_energies_9"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-43.0519610432058</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">64.0068</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">64.0068</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13.31969</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.79756064349282</value>
+				</datum>
+			</system>
+			<system id="{1300650A-EFC5-43D4-84A5-9979B12DBA2F}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_10.xsd" name="ZIF-8P_structure_10"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_10.xcd" name="ZIF-8P_loading_10"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_10.xcd" name="ZIF-8P_energies_10"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-48.1697410944354</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">72.0064</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">72.0064</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">14.875734</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.80606460455952</value>
+				</datum>
+			</system>
+			<system id="{EC308663-DE70-46B2-8549-EFC31F1A502B}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_11.xsd" name="ZIF-8P_structure_11"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_11.xcd" name="ZIF-8P_loading_11"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_11.xcd" name="ZIF-8P_energies_11"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-53.6281239510682</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">80.006</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">80.006</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.529011</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.81546209483468</value>
+				</datum>
+			</system>
+			<system id="{FEE29251-E2F9-4BE1-A09E-003D1FB42307}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_12.xsd" name="ZIF-8P_structure_12"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_12.xcd" name="ZIF-8P_loading_12"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_12.xcd" name="ZIF-8P_energies_12"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-58.8397586546368</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">88.0056</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">88.0056</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">18.14448</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.81675772985074</value>
+				</datum>
+			</system>
+			<system id="{9D4FBD11-5557-424A-B120-DB737F1C78D9}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_13.xsd" name="ZIF-8P_structure_13"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_13.xcd" name="ZIF-8P_loading_13"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_13.xcd" name="ZIF-8P_energies_13"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-63.7713841116906</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">96.0052</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">96.0052</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">19.650074</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.82180284452995</value>
+				</datum>
+			</system>
+			<system id="{EAB9F14E-250F-43C3-8826-B481BE831C09}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_14.xsd" name="ZIF-8P_structure_14"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_14.xcd" name="ZIF-8P_loading_14"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_14.xcd" name="ZIF-8P_energies_14"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-68.6026097262842</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">104.0048</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">104.0048</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.11719</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.8271668292529</value>
+				</datum>
+			</system>
+			<system id="{8A8F1577-A5AA-49C8-86C5-A3AF8C417448}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_15.xsd" name="ZIF-8P_structure_15"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_15.xcd" name="ZIF-8P_loading_15"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_15.xcd" name="ZIF-8P_energies_15"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-73.4547677028647</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">112.0044</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">112.0044</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.587916</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.83314430341114</value>
+				</datum>
+			</system>
+			<system id="{973FA787-403E-4103-9079-00F18B47F498}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_16.xsd" name="ZIF-8P_structure_16"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_16.xcd" name="ZIF-8P_loading_16"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_16.xcd" name="ZIF-8P_energies_16"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-78.9953576629418</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">120.004</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">120.004</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">24.275459</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.83853548730254</value>
+				</datum>
+			</system>
+			<system id="{A307DB42-ADFC-4B82-A57A-EF46DB96133C}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_17.xsd" name="ZIF-8P_structure_17"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_17.xcd" name="ZIF-8P_loading_17"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_17.xcd" name="ZIF-8P_energies_17"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-83.4935970294013</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">128.0036</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">128.0036</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">25.667222</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.84001390458603</value>
+				</datum>
+			</system>
+			<system id="{EF3B7DDE-6792-4A4A-8026-C0BB2D310FD0}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_18.xsd" name="ZIF-8P_structure_18"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_18.xcd" name="ZIF-8P_loading_18"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_18.xcd" name="ZIF-8P_energies_18"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-88.0643630034454</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">136.0032</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">136.0032</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">27.030174</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.8475070235217</value>
+				</datum>
+			</system>
+			<system id="{9E036930-C9B3-4E64-90D0-85F9C6EC2BD5}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_19.xsd" name="ZIF-8P_structure_19"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_19.xcd" name="ZIF-8P_loading_19"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_19.xcd" name="ZIF-8P_energies_19"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-92.6231089407205</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">144.0028</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">144.0028</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">28.422989</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.8508144006066</value>
+				</datum>
+			</system>
+			<system id="{B86399B4-4387-446A-B0C5-449C8672746D}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_20.xsd" name="ZIF-8P_structure_20"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_20.xcd" name="ZIF-8P_loading_20"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_20.xcd" name="ZIF-8P_energies_20"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-96.6878242867454</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">152.0024</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">152.0024</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">29.655723</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.85454001466275</value>
+				</datum>
+			</system>
+			<system id="{BDCD51FE-0F20-4B6F-8C07-3BE892F611A5}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_21.xsd" name="ZIF-8P_structure_21"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_21.xcd" name="ZIF-8P_loading_21"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_21.xcd" name="ZIF-8P_energies_21"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-101.711360103951</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">160.002</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">160.002</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">31.148773</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.8620179130731</value>
+				</datum>
+			</system>
+			<system id="{AC468AAB-343B-483D-A5E6-F157ED41B097}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_22.xsd" name="ZIF-8P_structure_22"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_22.xcd" name="ZIF-8P_loading_22"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_22.xcd" name="ZIF-8P_energies_22"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-106.156146379403</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">168.0016</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">168.0016</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">32.538365</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.86184405165799</value>
+				</datum>
+			</system>
+			<system id="{C8ACDA43-31A3-403F-94A1-350CD50C2F8B}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_23.xsd" name="ZIF-8P_structure_23"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_23.xcd" name="ZIF-8P_loading_23"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_23.xcd" name="ZIF-8P_energies_23"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-111.456176782994</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">176.0012</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">176.0012</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">34.06325</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.8743550627254</value>
+				</datum>
+			</system>
+			<system id="{BBC400E8-8047-4B9F-A6A9-DB17D65B2545}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_24.xsd" name="ZIF-8P_structure_24"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_24.xcd" name="ZIF-8P_loading_24"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_24.xcd" name="ZIF-8P_energies_24"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-115.36537784729</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">184.0008</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">184.0008</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">35.284986</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.87384929335688</value>
+				</datum>
+			</system>
+			<system id="{9FED49A7-DE94-4946-BEEB-787410A58479}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_25.xsd" name="ZIF-8P_structure_25"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_25.xcd" name="ZIF-8P_loading_25"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_25.xcd" name="ZIF-8P_energies_25"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-120.455432154747</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">192.0004</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">192.0004</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">36.827571</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.87788618671214</value>
+				</datum>
+			</system>
+			<system id="{ACD879AC-9B60-40F9-8008-E1FA1908E7B0}">
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_structure_26.xsd" name="ZIF-8P_structure_26"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_loading_26.xcd" name="ZIF-8P_loading_26"/>
+				</datum>
+				<datum status="1">
+					<containedObject url=".\\ZIF-8P_energies_26.xcd" name="ZIF-8P_energies_26"/>
+				</datum>
+				<datum status="1">
+					<value type="R8">-124.647379329236</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">200</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">200</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">38.073733</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">3.88334018307275</value>
+				</datum>
+			</system>
+		</systems>
+	</data>
+	<sheets activeSheet="0">
+		<cellStyles/>
+		<sheet title="Sheet 1" id="{2A526D69-84B1-449A-9A9B-E3503CDC0794}">
+			<rows defaultHeight="30" headerWidth="20">
+				<row sysId="{9CC3D5C8-9A90-46BB-B8C3-AE757BDFBBEB}"/>
+				<row sysId="{AA4F4F43-0396-4E02-9BD1-142E45A34C38}"/>
+				<row sysId="{880A3D3D-31CF-40BA-BB0E-346001387B32}"/>
+				<row sysId="{F76C7367-1E08-4D40-B69E-2BE62153F130}"/>
+				<row sysId="{9F1F4AB4-8311-46C2-9D9F-02F5805843B4}"/>
+				<row sysId="{3BAE5392-E637-4CEE-8F41-91DCE4A8D7CD}"/>
+				<row sysId="{29C86051-1126-40BC-97A2-0EAD5107B6BD}"/>
+				<row sysId="{EAB8262D-6BD7-45E9-8170-948A7B39C43A}"/>
+				<row sysId="{5227908E-891E-4CDA-8872-1A9C41B78E25}"/>
+				<row sysId="{1300650A-EFC5-43D4-84A5-9979B12DBA2F}"/>
+				<row sysId="{EC308663-DE70-46B2-8549-EFC31F1A502B}"/>
+				<row sysId="{FEE29251-E2F9-4BE1-A09E-003D1FB42307}"/>
+				<row sysId="{9D4FBD11-5557-424A-B120-DB737F1C78D9}"/>
+				<row sysId="{EAB9F14E-250F-43C3-8826-B481BE831C09}"/>
+				<row sysId="{8A8F1577-A5AA-49C8-86C5-A3AF8C417448}"/>
+				<row sysId="{973FA787-403E-4103-9079-00F18B47F498}"/>
+				<row sysId="{A307DB42-ADFC-4B82-A57A-EF46DB96133C}"/>
+				<row sysId="{EF3B7DDE-6792-4A4A-8026-C0BB2D310FD0}"/>
+				<row sysId="{9E036930-C9B3-4E64-90D0-85F9C6EC2BD5}"/>
+				<row sysId="{B86399B4-4387-446A-B0C5-449C8672746D}"/>
+				<row sysId="{BDCD51FE-0F20-4B6F-8C07-3BE892F611A5}"/>
+				<row sysId="{AC468AAB-343B-483D-A5E6-F157ED41B097}"/>
+				<row sysId="{C8ACDA43-31A3-403F-94A1-350CD50C2F8B}"/>
+				<row sysId="{BBC400E8-8047-4B9F-A6A9-DB17D65B2545}"/>
+				<row sysId="{9FED49A7-DE94-4946-BEEB-787410A58479}"/>
+				<row sysId="{ACD879AC-9B60-40F9-8008-E1FA1908E7B0}"/>
+			</rows>
+			<columns defaultWidth="85" headerHeight="45">
+				<column fieldId="Structure" width="139"/>
+				<column fieldId="Loading" width="129"/>
+				<column fieldId="Energies" width="137"/>
+				<column fieldId="Avg_etot" width="110"/>
+				<column fieldId="TotalFugacity" width="77"/>
+				<column fieldId="Fugacity_1" width="88"/>
+				<column fieldId="Avg_loading_1" width="126"/>
+				<column fieldId="Avg_isosteric_1" width="157"/>
+			</columns>
+			<cells>
+				<styles>
+					<styleRef count="208">0</styleRef>
+				</styles>
+				<colors>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,</block>
+				</colors>
+			</cells>
+		</sheet>
+	</sheets>
+</studyTableDocument>
